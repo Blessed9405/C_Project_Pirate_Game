@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-// Determines maximum number of items a player can hold
+// Determining maximum number of items a player can hold
 #define maximum_items 5 
 
 /* 
