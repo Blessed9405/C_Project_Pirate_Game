@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define maximum_items 5  // Determines maximum number of items a player can hold
+// Determines maximum number of items a player can hold
+#define maximum_items 5 
 
 /* 
 ---------------- World Map Of The Game World -----------------
